@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "watch",
+			"path": "Proyectointegrador_RenzoMoreno",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: watch - Proyectointegrador_RenzoMoreno",
+			"detail": "ng build --watch --configuration development"
+		}
+	]
+}
