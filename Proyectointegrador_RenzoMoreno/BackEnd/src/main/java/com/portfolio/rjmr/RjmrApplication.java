@@ -1,13 +1,13 @@
-package com.portfolio.renzmore;
+package com.portfolio.rjmr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RenzmoreApplication {
+public class RjmrApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RenzmoreApplication.class, args);
+		SpringApplication.run(RjmrApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.portfolio.renzmore;
+package com.portfolio.rjmr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RenzmoreApplicationTests {
+class RjmrApplicationTests {
 
 	@Test
 	void contextLoads() {
